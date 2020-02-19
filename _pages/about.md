@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+
+## This site is still in alpha dev phase
+
 I am Anuj Godase, a master's student at Indiana University Bloomington.
 
 I am get excited when people talk about machine learning & artificial intelligence, web architectures at scale and product development!
