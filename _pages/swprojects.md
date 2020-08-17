@@ -2,7 +2,7 @@
 permalink: /swprojects/
 title: "Software Projects"
 excerpt: "Software Projects"
-author_profile: false
+author_profile: true
 redirect_from:
   - /swprojects.html
 ---

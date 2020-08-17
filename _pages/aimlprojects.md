@@ -2,7 +2,7 @@
 permalink: /aiprojects/
 title: "AI/ML Projects"
 excerpt: "AI/ML Projects"
-author_profile: false
+author_profile: true
 redirect_from:
   - /aiprojects.html
 ---
