@@ -3,14 +3,14 @@ main:
   - title: "Work Experience"
     url: /workex/
 
-  - title: "AI/ML Projects"
-    url: /aiprojects/
-
   - title: "Software Projects"
     url: /projects/
 
   - title: "Research"
     url: /research/
+
+  - title: "AI/ML Projects"
+    url: /aiprojects/
 
   - title: "CV"
     url: /cv/
