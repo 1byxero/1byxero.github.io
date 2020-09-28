@@ -10,4 +10,4 @@ redirect_from:
 
 ## This site is still in alpha dev phase
 
-aiprojects is here
+research projects  here
