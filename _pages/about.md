@@ -18,6 +18,6 @@ I have more than two years of industry experience. My work focused on backend de
 
 I actively contribute to open source and the highlight of my work is when I contributed to PIP - the python package installer.
 
-I also have some experience with conducting research in the domain of deep learning and AI. The details can be found on the [research section](/research/) of this website. 
+I also have some experience conducting research in the domain of deep learning and AI. The details can be found on the [research section](/research/) of this website. 
 
 I am always excited to talk and learn about products working at global scale, tech invovations and AI. My email is [abgodase@iu.edu](mailto:abgodase@iu.edu). More contact info can be found on left side of this page!
