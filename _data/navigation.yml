@@ -6,11 +6,11 @@ main:
   - title: "Software Projects"
     url: /swprojects/
 
-  - title: "Research"
-    url: /research/
-
   - title: "AI/ML Projects"
     url: /aiprojects/
+
+  - title: "Research"
+    url: /research/
 
   - title: "Resume"
     url: /resume/
